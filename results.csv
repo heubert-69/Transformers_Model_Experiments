@@ -1,0 +1,5 @@
+Model,Accuracy,F1 Score
+Full Fine-tune,0.92,0.93
+Frozen BERT,0.63,0.7
+Last 2 Layers,0.51,0.38
+Representation Learning,0.93,0.93
